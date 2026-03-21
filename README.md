@@ -8,6 +8,18 @@ This project provides a comprehensive analysis of retail sales and inventory man
 o	Stock Efficiency: (Units Sold / Inventory Level) Evaluates how effectively inventory is converted into revenue.
 o	Price Difference: (Company Price - Competitor Pricing) Identifies the company's competitive market positioning.
 
+📊 Visualization & Analysis
+
+### Executive Dashboard
+![Retail Inventory Dashboard](Images/dashboard.png)
+
+### Pivot Table Analysis
+![Pivot Tables 1-4](Images/pivot%20tables%201,2,3,4.png)
+![Pivot Tables 5-6](Images/pivot%20tables%205,6.png)
+
+### Statistical Modeling
+![Regression Analysis](Images/simple%20linear%20regression%20.png)
+
 📈 Detailed Pivot Table Analysis & Findings
 I prepared 6 specialized Pivot Tables to answer specific business questions. Each analysis is supported by dedicated charts:
 1.	Sales by Product Category:
